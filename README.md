@@ -1,2 +1,2 @@
-# CPLEXFormulaWriter
-CPLEX Formula Writer is simple program to formulate optimization problem
+# CPLEX Formula Generator
+CPLEX Formula Generator is simple program to formulate optimization problem
